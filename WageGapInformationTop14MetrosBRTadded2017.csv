@@ -1,42 +1,42 @@
-﻿3BR Home Median,3BR Rental Median,Affordable Index Ratio,Affordable Index,Burglary Robbery Theft Counts,Buyer Seller Index,CBSA Title,CBSA.Title,Days Home Listed,Foreclosures,Home Sales,Median Income,Number of Records,Region Name,Size Rank,State Name,Wage Gap Annuals,Year,Zip Code
-200000,1330,0.256725115,Rent Affordability,7946,2.520718232,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA",84.5,1.76,11053,64972.21737,1,"Atlanta, GA",9,GA,42278.2,2017,30087
-200000,1330,0.134551584,Mortgage Affordability,7946,2.520718232,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA",84.5,1.76,11053,64972.21737,1,"Atlanta, GA",9,GA,42278.2,2017,30087
-200000,1330,2.953570122,Price To Income,7946,2.520718232,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA",84.5,1.76,11053,64972.21737,1,"Atlanta, GA",9,GA,42278.2,2017,30087
-425450,2895,0.331826358,Rent Affordability,5102,7.320441989,"Boston-Cambridge-Newton, MA-NH","Boston-Cambridge-Newton, MA-NH",75.25,0.85,4215,85888.2945,1,"Boston, MA",10,MA,38415.8,2017,01450
-425450,2895,0.231999115,Mortgage Affordability,5102,7.320441989,"Boston-Cambridge-Newton, MA-NH","Boston-Cambridge-Newton, MA-NH",75.25,0.85,4215,85888.2945,1,"Boston, MA",10,MA,38415.8,2017,01450
-425450,2895,5.092661375,Price To Income,5102,7.320441989,"Boston-Cambridge-Newton, MA-NH","Boston-Cambridge-Newton, MA-NH",75.25,0.85,4215,85888.2945,1,"Boston, MA",10,MA,38415.8,2017,01450
-226200,1720,0.289085567,Rent Affordability,10622,9.488950276,"Chicago-Naperville-Elgin, IL-IN-WI","Chicago-Naperville-Elgin, IL-IN-WI",101.75,3.31,12206,68699.38278,1,"Chicago, IL",3,IL,42367.2,2017,60410
-226200,1720,0.142238116,Mortgage Affordability,10622,9.488950276,"Chicago-Naperville-Elgin, IL-IN-WI","Chicago-Naperville-Elgin, IL-IN-WI",101.75,3.31,12206,68699.38278,1,"Chicago, IL",3,IL,42367.2,2017,60410
-226200,1720,3.122298794,Price To Income,10622,9.488950276,"Chicago-Naperville-Elgin, IL-IN-WI","Chicago-Naperville-Elgin, IL-IN-WI",101.75,3.31,12206,68699.38278,1,"Chicago, IL",3,IL,42367.2,2017,60410
-250000,1575,0.289557384,Rent Affordability,35011,5,"Dallas-Fort Worth-Arlington, TX","Dallas-Fort Worth-Arlington, TX",64.75,0.37,8761,66349.54255,1,"Dallas-Fort Worth, TX",4,TX,60058,2017,75082
-250000,1575,0.148511511,Mortgage Affordability,35011,5,"Dallas-Fort Worth-Arlington, TX","Dallas-Fort Worth-Arlington, TX",64.75,0.37,8761,66349.54255,1,"Dallas-Fort Worth, TX",4,TX,60058,2017,75082
-250000,1575,3.260007404,Price To Income,35011,5,"Dallas-Fort Worth-Arlington, TX","Dallas-Fort Worth-Arlington, TX",64.75,0.37,8761,66349.54255,1,"Dallas-Fort Worth, TX",4,TX,60058,2017,75082
-219900,1200,0.246841872,Rent Affordability,19312,6.491712707,"Detroit-Warren-Dearborn, MI","Detroit-Warren-Dearborn, MI",81,2,6091,58288.32792,1,"Detroit, MI",12,MI,28356.8,2017,48310
-219900,1200,0.114576065,Mortgage Affordability,19312,6.491712707,"Detroit-Warren-Dearborn, MI","Detroit-Warren-Dearborn, MI",81,2,6091,58288.32792,1,"Detroit, MI",12,MI,28356.8,2017,48310
-219900,1200,2.515083298,Price To Income,19312,6.491712707,"Detroit-Warren-Dearborn, MI","Detroit-Warren-Dearborn, MI",81,2,6091,58288.32792,1,"Detroit, MI",12,MI,28356.8,2017,48310
-239500,1550,0.292183412,Rent Affordability,105785,7.665745856,"Houston-The Woodlands-Sugar Land, TX","Houston-The Woodlands-Sugar Land, TX",94.25,0.14,8063,63617.57456,1,"Houston, TX",6,TX,24590,2017,77064
-239500,1550,0.137130229,Mortgage Affordability,105785,7.665745856,"Houston-The Woodlands-Sugar Land, TX","Houston-The Woodlands-Sugar Land, TX",94.25,0.14,8063,63617.57456,1,"Houston, TX",6,TX,24590,2017,77064
-239500,1550,3.010174489,Price To Income,105785,7.665745856,"Houston-The Woodlands-Sugar Land, TX","Houston-The Woodlands-Sugar Land, TX",94.25,0.14,8063,63617.57456,1,"Houston, TX",6,TX,24590,2017,77064
-369000,2200,0.420063543,Rent Affordability,9228,8.024861878,"Miami-Fort Lauderdale-West Palm Beach, FL","Miami-Fort Lauderdale-West Palm Beach, FL",111,0.12,10098,53077.68395,1,"Miami-Fort Lauderdale, FL",8,FL,16486,2017,33196
-369000,2200,0.224955485,Mortgage Affordability,9228,8.024861878,"Miami-Fort Lauderdale-West Palm Beach, FL","Miami-Fort Lauderdale-West Palm Beach, FL",111,0.12,10098,53077.68395,1,"Miami-Fort Lauderdale, FL",8,FL,16486,2017,33196
-369000,2200,4.938045154,Price To Income,9228,8.024861878,"Miami-Fort Lauderdale-West Palm Beach, FL","Miami-Fort Lauderdale-West Palm Beach, FL",111,0.12,10098,53077.68395,1,"Miami-Fort Lauderdale, FL",8,FL,16486,2017,33196
-399990,2670,0.387237437,Rent Affordability,30834,9.585635359,"New York-Newark-Jersey City, NY-NJ-PA","New York-Newark-Jersey City, NY-NJ-PA",137,1.03,19764,74868.79435,1,"New York, NY",1,NY,56783.6,2017,08738
-399990,2670,0.252881017,Mortgage Affordability,30834,9.585635359,"New York-Newark-Jersey City, NY-NJ-PA","New York-Newark-Jersey City, NY-NJ-PA",137,1.03,19764,74868.79435,1,"New York, NY",1,NY,56783.6,2017,08738
-399990,2670,5.551044379,Price To Income,30834,9.585635359,"New York-Newark-Jersey City, NY-NJ-PA","New York-Newark-Jersey City, NY-NJ-PA",137,1.03,19764,74868.79435,1,"New York, NY",1,NY,56783.6,2017,08738
-219900,1500,0.276137651,Rent Affordability,54327,9.150552486,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",99.875,2.84,8622,68748.32138,1,"Philadelphia, PA",5,PA,40188.4,2017,08084
-219900,1500,0.148100648,Mortgage Affordability,54327,9.150552486,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",99.875,2.84,8622,68748.32138,1,"Philadelphia, PA",5,PA,40188.4,2017,08084
-219900,1500,3.250988468,Price To Income,54327,9.150552486,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",99.875,2.84,8622,68748.32138,1,"Philadelphia, PA",5,PA,40188.4,2017,08084
-280409,1320,0.267011014,Rent Affordability,63646,4.267955801,"Phoenix-Mesa-Scottsdale, AZ","Phoenix-Mesa-Scottsdale, AZ",66.5,0.64,11437,60716.5965,1,"Phoenix, AZ",14,AZ,28960,2017,85249
-280409,1320,0.183673086,Mortgage Affordability,63646,4.267955801,"Phoenix-Mesa-Scottsdale, AZ","Phoenix-Mesa-Scottsdale, AZ",66.5,0.64,11437,60716.5965,1,"Phoenix, AZ",14,AZ,28960,2017,85249
-280409,1320,4.031846548,Price To Income,63646,4.267955801,"Phoenix-Mesa-Scottsdale, AZ","Phoenix-Mesa-Scottsdale, AZ",66.5,0.64,11437,60716.5965,1,"Phoenix, AZ",14,AZ,28960,2017,85249
-349900,1900,0.366906222,Rent Affordability,8813,6.947513812,"Riverside-San Bernardino-Ontario, CA","Riverside-San Bernardino-Ontario, CA",77.5,0.88,5631,60604.04172,1,"Riverside, CA",13,CA,38421.6,2017,92210
-349900,1900,0.259709593,Mortgage Affordability,8813,6.947513812,"Riverside-San Bernardino-Ontario, CA","Riverside-San Bernardino-Ontario, CA",77.5,0.88,5631,60604.04172,1,"Riverside, CA",13,CA,38421.6,2017,92210
-349900,1900,5.700939907,Price To Income,8813,6.947513812,"Riverside-San Bernardino-Ontario, CA","Riverside-San Bernardino-Ontario, CA",77.5,0.88,5631,60604.04172,1,"Riverside, CA",13,CA,38421.6,2017,92210
-674948,3385,0.400830989,Rent Affordability,15760,0.400552486,"San Francisco-Oakland-Hayward, CA","San Francisco-Oakland-Hayward, CA",49.5,0.27,4791,102057.9774,1,"San Francisco, CA",11,CA,66203,2017,94112
-674948,3385,0.40137551,Mortgage Affordability,15760,0.400552486,"San Francisco-Oakland-Hayward, CA","San Francisco-Oakland-Hayward, CA",49.5,0.27,4791,102057.9774,1,"San Francisco, CA",11,CA,66203,2017,94112
-674948,3385,8.810678231,Price To Income,15760,0.400552486,"San Francisco-Oakland-Hayward, CA","San Francisco-Oakland-Hayward, CA",49.5,0.27,4791,102057.9774,1,"San Francisco, CA",11,CA,66203,2017,94112
-385000,2000,0.179155349,Mortgage Affordability,31778,5.732044199,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Arlington-Alexandria, DC-VA-MD-WV",84.5,1.34,7313,99245.38027,1,"Washington, DC",7,DC,43376.2,2017,20724
-385000,2000,3.932676755,Price To Income,31778,5.732044199,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington-Arlington-Alexandria, DC-VA-MD-WV",84.5,1.34,7313,99245.38027,1,"Washington, DC",7,DC,43376.2,2017,20724
-624900,3095,0.476384185,Rent Affordability,95092,4.185082873,"Los Angeles-Long Beach-Anaheim, CA","Los Angeles-Long Beach-Anaheim, CA",71,0.35,9786,68944.35421,1,"Los Angeles-Long Beach-Anaheim, CA",2,CA,47327,2017,92831
-624900,3095,0.413304501,Mortgage Affordability,95092,4.185082873,"Los Angeles-Long Beach-Anaheim, CA","Los Angeles-Long Beach-Anaheim, CA",71,0.35,9786,68944.35421,1,"Los Angeles-Long Beach-Anaheim, CA",2,CA,47327,2017,92831
-624900,3095,9.072534034,Price To Income,95092,4.185082873,"Los Angeles-Long Beach-Anaheim, CA","Los Angeles-Long Beach-Anaheim, CA",71,0.35,9786,68944.35421,1,"Los Angeles-Long Beach-Anaheim, CA",2,CA,47327,2017,92831
+﻿3BR Home Median,3BR Rental Median,Affordable Index Ratio,Affordable Index,Burglary Robbery Theft Counts,Buyer Seller Index,CBSA Title,Days Home Listed,Foreclosures,Home Sales,Median Income,Number of Records,Region Name,Size Rank,State Name,Wage Gap Annuals,Zip Code
+200000,1330,0.256725115,Rent Affordability,7946,2.520718232,"Atlanta-Sandy Springs-Roswell, GA",84.5,1.76,11053,64972.21737,1,"Atlanta, GA",9,GA,42278.2,30087
+200000,1330,0.134551584,Mortgage Affordability,7946,2.520718232,"Atlanta-Sandy Springs-Roswell, GA",84.5,1.76,11053,64972.21737,1,"Atlanta, GA",9,GA,42278.2,30087
+200000,1330,2.953570122,Price To Income,7946,2.520718232,"Atlanta-Sandy Springs-Roswell, GA",84.5,1.76,11053,64972.21737,1,"Atlanta, GA",9,GA,42278.2,30087
+425450,2895,0.331826358,Rent Affordability,5102,7.320441989,"Boston-Cambridge-Newton, MA-NH",75.25,0.85,4215,85888.2945,1,"Boston, MA",10,MA,38415.8,01450
+425450,2895,0.231999115,Mortgage Affordability,5102,7.320441989,"Boston-Cambridge-Newton, MA-NH",75.25,0.85,4215,85888.2945,1,"Boston, MA",10,MA,38415.8,01450
+425450,2895,5.092661375,Price To Income,5102,7.320441989,"Boston-Cambridge-Newton, MA-NH",75.25,0.85,4215,85888.2945,1,"Boston, MA",10,MA,38415.8,01450
+226200,1720,0.289085567,Rent Affordability,10622,9.488950276,"Chicago-Naperville-Elgin, IL-IN-WI",101.75,3.31,12206,68699.38278,1,"Chicago, IL",3,IL,42367.2,60410
+226200,1720,0.142238116,Mortgage Affordability,10622,9.488950276,"Chicago-Naperville-Elgin, IL-IN-WI",101.75,3.31,12206,68699.38278,1,"Chicago, IL",3,IL,42367.2,60410
+226200,1720,3.122298794,Price To Income,10622,9.488950276,"Chicago-Naperville-Elgin, IL-IN-WI",101.75,3.31,12206,68699.38278,1,"Chicago, IL",3,IL,42367.2,60410
+250000,1575,0.289557384,Rent Affordability,35011,5,"Dallas-Fort Worth-Arlington, TX",64.75,0.37,8761,66349.54255,1,"Dallas-Fort Worth, TX",4,TX,60058,75082
+250000,1575,0.148511511,Mortgage Affordability,35011,5,"Dallas-Fort Worth-Arlington, TX",64.75,0.37,8761,66349.54255,1,"Dallas-Fort Worth, TX",4,TX,60058,75082
+250000,1575,3.260007404,Price To Income,35011,5,"Dallas-Fort Worth-Arlington, TX",64.75,0.37,8761,66349.54255,1,"Dallas-Fort Worth, TX",4,TX,60058,75082
+219900,1200,0.246841872,Rent Affordability,19312,6.491712707,"Detroit-Warren-Dearborn, MI",81,2,6091,58288.32792,1,"Detroit, MI",12,MI,28356.8,48310
+219900,1200,0.114576065,Mortgage Affordability,19312,6.491712707,"Detroit-Warren-Dearborn, MI",81,2,6091,58288.32792,1,"Detroit, MI",12,MI,28356.8,48310
+219900,1200,2.515083298,Price To Income,19312,6.491712707,"Detroit-Warren-Dearborn, MI",81,2,6091,58288.32792,1,"Detroit, MI",12,MI,28356.8,48310
+239500,1550,0.292183412,Rent Affordability,105785,7.665745856,"Houston-The Woodlands-Sugar Land, TX",94.25,0.14,8063,63617.57456,1,"Houston, TX",6,TX,24590,77064
+239500,1550,0.137130229,Mortgage Affordability,105785,7.665745856,"Houston-The Woodlands-Sugar Land, TX",94.25,0.14,8063,63617.57456,1,"Houston, TX",6,TX,24590,77064
+239500,1550,3.010174489,Price To Income,105785,7.665745856,"Houston-The Woodlands-Sugar Land, TX",94.25,0.14,8063,63617.57456,1,"Houston, TX",6,TX,24590,77064
+369000,2200,0.420063543,Rent Affordability,9228,8.024861878,"Miami-Fort Lauderdale-West Palm Beach, FL",111,0.12,10098,53077.68395,1,"Miami-Fort Lauderdale, FL",8,FL,16486,33196
+369000,2200,0.224955485,Mortgage Affordability,9228,8.024861878,"Miami-Fort Lauderdale-West Palm Beach, FL",111,0.12,10098,53077.68395,1,"Miami-Fort Lauderdale, FL",8,FL,16486,33196
+369000,2200,4.938045154,Price To Income,9228,8.024861878,"Miami-Fort Lauderdale-West Palm Beach, FL",111,0.12,10098,53077.68395,1,"Miami-Fort Lauderdale, FL",8,FL,16486,33196
+399990,2670,0.387237437,Rent Affordability,30834,9.585635359,"New York-Newark-Jersey City, NY-NJ-PA",137,1.03,19764,74868.79435,1,"New York, NY",1,NY,56783.6,08738
+399990,2670,0.252881017,Mortgage Affordability,30834,9.585635359,"New York-Newark-Jersey City, NY-NJ-PA",137,1.03,19764,74868.79435,1,"New York, NY",1,NY,56783.6,08738
+399990,2670,5.551044379,Price To Income,30834,9.585635359,"New York-Newark-Jersey City, NY-NJ-PA",137,1.03,19764,74868.79435,1,"New York, NY",1,NY,56783.6,08738
+219900,1500,0.276137651,Rent Affordability,54327,9.150552486,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",99.875,2.84,8622,68748.32138,1,"Philadelphia, PA",5,PA,40188.4,08084
+219900,1500,0.148100648,Mortgage Affordability,54327,9.150552486,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",99.875,2.84,8622,68748.32138,1,"Philadelphia, PA",5,PA,40188.4,08084
+219900,1500,3.250988468,Price To Income,54327,9.150552486,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",99.875,2.84,8622,68748.32138,1,"Philadelphia, PA",5,PA,40188.4,08084
+280409,1320,0.267011014,Rent Affordability,63646,4.267955801,"Phoenix-Mesa-Scottsdale, AZ",66.5,0.64,11437,60716.5965,1,"Phoenix, AZ",14,AZ,28960,85249
+280409,1320,0.183673086,Mortgage Affordability,63646,4.267955801,"Phoenix-Mesa-Scottsdale, AZ",66.5,0.64,11437,60716.5965,1,"Phoenix, AZ",14,AZ,28960,85249
+280409,1320,4.031846548,Price To Income,63646,4.267955801,"Phoenix-Mesa-Scottsdale, AZ",66.5,0.64,11437,60716.5965,1,"Phoenix, AZ",14,AZ,28960,85249
+349900,1900,0.366906222,Rent Affordability,8813,6.947513812,"Riverside-San Bernardino-Ontario, CA",77.5,0.88,5631,60604.04172,1,"Riverside, CA",13,CA,38421.6,92210
+349900,1900,0.259709593,Mortgage Affordability,8813,6.947513812,"Riverside-San Bernardino-Ontario, CA",77.5,0.88,5631,60604.04172,1,"Riverside, CA",13,CA,38421.6,92210
+349900,1900,5.700939907,Price To Income,8813,6.947513812,"Riverside-San Bernardino-Ontario, CA",77.5,0.88,5631,60604.04172,1,"Riverside, CA",13,CA,38421.6,92210
+674948,3385,0.400830989,Rent Affordability,15760,0.400552486,"San Francisco-Oakland-Hayward, CA",49.5,0.27,4791,102057.9774,1,"San Francisco, CA",11,CA,66203,94112
+674948,3385,0.40137551,Mortgage Affordability,15760,0.400552486,"San Francisco-Oakland-Hayward, CA",49.5,0.27,4791,102057.9774,1,"San Francisco, CA",11,CA,66203,94112
+674948,3385,8.810678231,Price To Income,15760,0.400552486,"San Francisco-Oakland-Hayward, CA",49.5,0.27,4791,102057.9774,1,"San Francisco, CA",11,CA,66203,94112
+385000,2000,0.179155349,Mortgage Affordability,31778,5.732044199,"Washington-Arlington-Alexandria, DC-VA-MD-WV",84.5,1.34,7313,99245.38027,1,"Washington, DC",7,DC,43376.2,20724
+385000,2000,3.932676755,Price To Income,31778,5.732044199,"Washington-Arlington-Alexandria, DC-VA-MD-WV",84.5,1.34,7313,99245.38027,1,"Washington, DC",7,DC,43376.2,20724
+624900,3095,0.476384185,Rent Affordability,95092,4.185082873,"Los Angeles-Long Beach-Anaheim, CA",71,0.35,9786,68944.35421,1,"Los Angeles-Long Beach-Anaheim, CA",2,CA,47327,92831
+624900,3095,0.413304501,Mortgage Affordability,95092,4.185082873,"Los Angeles-Long Beach-Anaheim, CA",71,0.35,9786,68944.35421,1,"Los Angeles-Long Beach-Anaheim, CA",2,CA,47327,92831
+624900,3095,9.072534034,Price To Income,95092,4.185082873,"Los Angeles-Long Beach-Anaheim, CA",71,0.35,9786,68944.35421,1,"Los Angeles-Long Beach-Anaheim, CA",2,CA,47327,92831
